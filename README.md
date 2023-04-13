@@ -35,4 +35,4 @@ left pic | center pic | right pic
 
 А так же csv файл в котором каждому наблюдению соответствует 3 скриншота, поворот руля(-1;1), газ (0;1), тормоз (0;1), скорость
 
-<img src="./drive/table.png" width="220">
+<img src="./drive/table.PNG" width="750">
