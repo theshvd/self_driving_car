@@ -6,7 +6,7 @@
 
 Training | Validation
 ------------|---------------
-![image](./drive/first_track.gif) | ![validation_img](./drive/second_track.gif)
+!<img src="./drive/first_track.gif" width="300"> | !<img src="./drive/second_track.gif" width="300"> 
 ### Стек использованных технологий 
 
 - [Keras](https://keras.io/)
@@ -25,4 +25,10 @@ Training | Validation
 
 Training mode |
 ------------ |
-![image](./drive/training_mode.PNG) |
+!<img src="./drive/training_mode.PNG" width="300"> |
+
+Данными полученными после такой работы является 3 фотографии в каждый момент времени:
+
+left pic | center pic | right pic 
+------------ | ------------ | ------------
+!<img src="./drive/training_mode.PNG" width="150"> |!<img src="./drive/training_mode.PNG" width="150"> | !<img src="./drive/training_mode.PNG" width="150"> 
