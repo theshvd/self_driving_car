@@ -25,10 +25,14 @@ Training | Validation
 
 Training mode |
 ------------ |
-!<img src="./drive/training_mode.PNG" width="300"> |
+!<img src="./drive/training_mode.PNG" width="250"> |
 
 Данными полученными после такой работы является 3 фотографии в каждый момент времени:
 
 left pic | center pic | right pic 
 ------------ | ------------ | ------------
-!<img src="./drive/training_mode.PNG" width="150"> |!<img src="./drive/training_mode.PNG" width="150"> | !<img src="./drive/training_mode.PNG" width="150"> 
+<img src="./drive/left.jpg" width="220"> | <img src="./drive/center.jpg" width="220"> | <img src="./drive/right.jpg" width="220">
+
+А так же csv файл в котором каждому наблюдению соответствует 3 скриншота, поворот руля(-1;1), газ (0;1), тормоз (0;1), скорость
+
+<img src="./drive/table.png" width="220">
